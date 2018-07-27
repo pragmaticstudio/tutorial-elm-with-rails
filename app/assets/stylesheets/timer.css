@@ -1,0 +1,18 @@
+.time-period {
+  display: inline-block;
+  margin: 3rem 5px;
+}
+
+.time-period .amount {
+  font-size: 300%;
+  padding: 30px;
+  border-radius: 4px;
+  background: #ccc;
+}
+
+.time-period .period {
+  display: block;
+  color: #7B7D7D;
+  text-transform: uppercase;
+  text-align: center;
+}
